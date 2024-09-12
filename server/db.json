@@ -1,0 +1,20 @@
+{
+    "goods": [
+        {
+            "name": "eggs",
+            "id": 1
+        },
+        {
+            "name": "milk",
+            "id": 2
+        },
+        {
+            "name": "cheese",
+            "id": 3
+        },
+        {
+            "name": "wine",
+            "id": 4
+        }
+    ]
+}
