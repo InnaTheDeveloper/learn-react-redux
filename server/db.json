@@ -1,20 +1,24 @@
 {
-    "goods": [
-        {
-            "name": "eggs",
-            "id": 1
-        },
-        {
-            "name": "milk",
-            "id": 2
-        },
-        {
-            "name": "cheese",
-            "id": 3
-        },
-        {
-            "name": "wine",
-            "id": 4
-        }
-    ]
+  "goods": [
+    {
+      "name": "cheese",
+      "id": "3"
+    },
+    {
+      "name": "wine",
+      "id": "4"
+    },
+    {
+      "id": "c297",
+      "name": "more wine"
+    },
+    {
+      "id": "5ee1",
+      "name": "and champagne too)"
+    },
+    {
+      "id": "7a94",
+      "name": "cheese"
+    }
+  ]
 }
